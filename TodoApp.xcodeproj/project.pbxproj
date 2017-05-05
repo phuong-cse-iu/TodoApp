@@ -13,6 +13,7 @@
 		218609D11EBC54910019CA38 /* TodoApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 218609CF1EBC54910019CA38 /* TodoApp.xcdatamodeld */; };
 		218609D31EBC54910019CA38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 218609D21EBC54910019CA38 /* Assets.xcassets */; };
 		218609D61EBC54910019CA38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 218609D41EBC54910019CA38 /* LaunchScreen.storyboard */; };
+		218609DE1EBC557F0019CA38 /* AddTaskVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 218609DD1EBC557F0019CA38 /* AddTaskVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		218609D21EBC54910019CA38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		218609D51EBC54910019CA38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		218609D71EBC54910019CA38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		218609DD1EBC557F0019CA38 /* AddTaskVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				218609D41EBC54910019CA38 /* LaunchScreen.storyboard */,
 				218609D71EBC54910019CA38 /* Info.plist */,
 				218609CF1EBC54910019CA38 /* TodoApp.xcdatamodeld */,
+				218609DD1EBC557F0019CA38 /* AddTaskVC.swift */,
 			);
 			path = TodoApp;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				218609CB1EBC54910019CA38 /* ViewController.swift in Sources */,
 				218609D11EBC54910019CA38 /* TodoApp.xcdatamodeld in Sources */,
 				218609C91EBC54910019CA38 /* AppDelegate.swift in Sources */,
+				218609DE1EBC557F0019CA38 /* AddTaskVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
